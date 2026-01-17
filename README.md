@@ -3,12 +3,15 @@
 A console-based Rock Paper Scissors game written in C++.
 
 ## Features
-- User vs Computer
+- User vs Computer gameplay
 - Finite or infinite rounds
-- Input validation
-- Score tracking
+- Robust input validation
+- Score tracking across rounds
 
 ## How to Run
+
+Make sure you have a C++ compiler (like `g++`) installed.
+
 ```bash
-g++ main.cpp -o rps
+g++ rockPaperScissors.cpp -o rps
 ./rps
