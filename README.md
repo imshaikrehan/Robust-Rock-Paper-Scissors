@@ -8,7 +8,6 @@ Instead of relying purely on random number generation, this version implements a
 ## Features
 - **Predictive Opponent:** Uses a 3x3 transition matrix to calculate the probability of the user's next move based on their previous move.
 - **Object-Oriented Structure:** Game logic and state are encapsulated within a dedicated class.
-- **Terminal UI:** Utilizes standard ANSI escape codes for colored output and better readability.
 - **Game Modes:** Support for finite round limits or an "endless" mode.
 - **Input Validation:** Safe handling of invalid inputs to prevent runtime errors or infinite loops.
 
